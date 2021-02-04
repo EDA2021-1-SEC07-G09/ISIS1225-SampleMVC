@@ -2,7 +2,7 @@
 
 
 
-#Juan Jose Ramirez Cala - jj.ramirezc1@uniandes.edu.co - 202013228
+#Juan Jose Ramirez Cala - jj.ramirezc1@uniandes.edu.co - 202013228 
 
 
 #ISIS1225 - Estructura de un proyecto
